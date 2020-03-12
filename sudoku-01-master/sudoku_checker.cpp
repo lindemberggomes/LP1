@@ -5,13 +5,12 @@
 #define EMPTY short(0)
 #define SIZE 9
 
-void print( short b[9][9] )
+void print( short b[SIZE][SIZE] )
 {
-    
     // TODO: implement this function.
 }
 
-bool is_valid( short b[9][9] )
+bool is_valid( short b[SIZE][SIZE] )
 {
     // TODO: implement this function.
     return true; // This is just a stub. Replace it as needed.
