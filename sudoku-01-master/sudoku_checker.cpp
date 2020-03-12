@@ -5,9 +5,19 @@
 #define EMPTY short(0)
 #define SIZE 9
 
-void print( short b[SIZE][SIZE] )
+void print( short b[9][9] )
 {
-    // TODO: implement this function.
+    int linha;
+    int coluna;
+    
+    for(int i=0;i<linha;i++)
+    {
+       for(int j=0;j<coluna;j++)
+       {
+           printf("%d\t", b[linha][coluna]);
+       }
+   }
+    
 }
 
 bool is_valid( short b[SIZE][SIZE] )
