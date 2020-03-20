@@ -1,0 +1,5 @@
+Para a interface em C++ recomendo o uso do Qt. https://www.qt.io/developers/ com ele você monta a interface da maneira que desejar e em código você faz a ligação entre os dois. Bons estudos.
+
+
+Segue um exemplo simples em https://github.com/guianzollin/GUI-application-windows-api
+
